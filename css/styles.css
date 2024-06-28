@@ -42,9 +42,10 @@ a {
 .header-menu-link:focus {
     color: #404bbf
 }
-
-.header-adress-link {
+.header-adress {
     font-style: normal;
+}
+.header-adress-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
