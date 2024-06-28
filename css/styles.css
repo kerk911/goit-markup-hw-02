@@ -30,7 +30,10 @@ a {
     text-transform: uppercase;
     color: #2e2f42
 }
-
+.navigation-menu-list:hover,
+.navigation-menu-list:focus{
+    color: #404bbf
+}
 .header-menu-item-link {
     font-weight: 500;
     font-size: 16px;
@@ -140,13 +143,11 @@ a {
 }
 
 .team-list-text {
-    display: flex;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    margin: auto;
 }
 
 .team-list-header {
