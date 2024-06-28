@@ -1,5 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
+    color:#434455;
+    background-color: #FFFFFF;
 }
 
 ul {
@@ -11,10 +13,13 @@ a {
 }
 
 .logo {
-    font-family: Raleway, sans-serif;
-    width: 115px;
-    height: 24px;
-    color: #2e2f42;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5
+
 }
 
 .logo-color {
@@ -37,7 +42,6 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
     font-style: normal;
 }
 
@@ -92,7 +96,6 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 .header-team {
@@ -132,7 +135,6 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #434455;
     display: block;
     margin: auto;
 }
@@ -152,7 +154,6 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #434455;
 }
 
 .header-portfolio {
@@ -183,7 +184,6 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 .footer {
