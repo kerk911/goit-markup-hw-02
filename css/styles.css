@@ -70,20 +70,16 @@ a {
     text-align: center;
     background: #2e2f42;
     color: #fff;
-    justify-content: center;
 }
 
 .main-button {
     font-family: "Roboto", sans-serif;
     background: #4d5ae5;
-    border-radius: 4px;
-    padding: 16px 32px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    cursor: pointer
 }
 
 .main-button:hover,
@@ -111,7 +107,6 @@ a {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
     text-transform: capitalize
 }
@@ -122,10 +117,6 @@ a {
     background-color: #FFFFFF
 }
 .team-list-images {
-    margin-right: 10px;
-    justify-content: space-between;
-    max-width: 264px;
-    height: 260px;
     background: url("path_to_image");
 }
 
@@ -133,10 +124,8 @@ a {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
     font-size: 20px;
-    margin: auto;
 }
 
 .team-list-text {
@@ -144,7 +133,6 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
 }
 
 .team-list-header {
@@ -152,7 +140,6 @@ a {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
 }
 
@@ -161,7 +148,6 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
 }
 
 .header-portfolio {
@@ -169,7 +155,6 @@ a {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
     text-transform: capitalize
 }
